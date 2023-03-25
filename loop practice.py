@@ -1,4 +1,4 @@
-from requests import get, status_codes
+from requests import get
 
 websites = [
     'google.com',
